@@ -1,0 +1,16 @@
+[
+    {
+        "name": "String",
+        "gender": "String",
+        "address": "String",
+        "age": null,
+        "books": [
+            {
+                "title": "String",
+                "author": "String",
+                "pages": null,
+                "genre": "String"
+            }
+        ]
+    }
+]
